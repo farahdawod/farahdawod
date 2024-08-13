@@ -1,4 +1,4 @@
-# Hey<img src="https://github.com/farahdawod/farahdawod/blob/main/media/wave.gif" size="30%">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
+# Hey<img src="https://github.com/farahdawod/farahdawod/blob/main/media/wave.gif" size="20%">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
 <br/>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk4cHpldWlqdGpwZndxcWQzdGQ2Njg1ejR2YWllcnRnN296MzlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -29,11 +29,11 @@
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="48" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" title="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="40" title="SQL" src="media/sql.svg"></code>
 <code><img height="40" title="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="40" title="Express" src="media/express.png"></code>
+<code><img height="45" title="Express" src="media/express.png"></code>
 <code><img height="40" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="40" title="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"></code>
 <code><img height="40" title="OpenCV" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"></code>
