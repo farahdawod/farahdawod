@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/farah-dawod-48847a212/"><img align="left" alt="Farah's LinkedIn" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
-<a href="mailto:farahdawod@outlook.com"><img align="left" alt="Farah's Email" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" draggable="false" /></a>
+<a href="mailto:farahdawod@outlook.com"><img align="left" alt="Farah's Email" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmicrosoft%2BOutlook&psig=AOvVaw2mO6jP2twjVsnpWGoJhzAz&ust=1723667585509000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODzpKPo8ocDFQAAAAAdAAAAABAW" draggable="false" /></a>
 </div>
 
 <br />
