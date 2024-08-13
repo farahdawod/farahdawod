@@ -16,7 +16,7 @@
 <br />
 <br />
 
-# <img src="media/woman.gif" width="50" draggable="false" > About Me
+# <img src="media/woman.gif" width="70" draggable="false" > About Me
 
 - 🎓 Computer Science and Engineering Major [@German University In Cairo](https://www.guc.edu.eg)
 - 🚧 Currently improving my software and hardware skills with a focus on problem-solving
