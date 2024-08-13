@@ -1,4 +1,4 @@
-# Hey<img src="https://github.com/farahdawod/farahdawod/blob/main/media/wave.gif" size="100%">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
+# Hey<img src="https://github.com/farahdawod/farahdawod/blob/main/media/wave.gif" size="80%">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
 <br/>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk4cHpldWlqdGpwZndxcWQzdGQ2Njg1ejR2YWllcnRnN296MzlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/farah-dawod-48847a212/"><img align="left" alt="Farah's LinkedIn" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
-<a href="mailto:farahdawod@outlook.com"><img align="left" alt="Farah's Email" height="30px" width="40px" src="media/outlook.png" draggable="false" /></a>
+<a href="mailto:farahdawod@outlook.com"><img align="left" alt="Farah's Email" height="32px" width="40px" src="media/outlook.png" draggable="false" /></a>
 </div>
 
 <br />
