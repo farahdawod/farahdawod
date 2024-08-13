@@ -1,4 +1,4 @@
-# Hey<img src="https://github.com/farahdawod/farahdawod/blob/main/media/wave.gif" size="5px">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
+# Hey<img src="https://github.com/farahdawod/farahdawod/blob/main/media/wave.gif" width="50px">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
 <br/>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk4cHpldWlqdGpwZndxcWQzdGQ2Njg1ejR2YWllcnRnN296MzlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="500" height="400">
