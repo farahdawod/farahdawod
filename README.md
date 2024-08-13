@@ -30,6 +30,7 @@
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" title="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="40" title="SQL" src="images/sql.png"></code>
 <code><img height="40" title="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="40" title="Express" src="images/express.png"></code>
