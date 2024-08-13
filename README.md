@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/farahdawod/farahdawod/blob/main/images/wave.gif" width="40px" height="40px">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
+# Hey <img src="https://github.com/farahdawod/farahdawod/blob/main/media/wave.gif" width="40px" height="40px">, I'm [Farah!](https://www.linkedin.com/in/farah-dawod-48847a212/) 
 <br/>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk4cHpldWlqdGpwZndxcWQzdGQ2Njg1ejR2YWllcnRnN296MzlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/farah-dawod-48847a212/"><img align="left" alt="Farah's LinkedIn" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
-<a href="mailto:farahdawod@outlook.com"><img align="left" alt="Farah's Email" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmicrosoft%2BOutlook&psig=AOvVaw2mO6jP2twjVsnpWGoJhzAz&ust=1723667585509000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODzpKPo8ocDFQAAAAAdAAAAABAW" draggable="false" /></a>
+<a href="mailto:farahdawod@outlook.com"><img align="left" alt="Farah's Email" width="30px" src="media/outlook.png" draggable="false" /></a>
 </div>
 
 <br />
@@ -31,7 +31,7 @@
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="40" title="SQL" src="images/sql.png"></code>
+<code><img height="40" title="SQL" src="media/sql.svg"></code>
 <code><img height="40" title="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="40" title="Express" src="images/express.png"></code>
 <code><img height="40" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
