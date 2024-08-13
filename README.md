@@ -22,7 +22,7 @@
 - 🚧 Currently improving my software and hardware skills with a focus on problem-solving
 - 👨‍💻 Passionate about Backend Programming, Software Engineering, and Artificial Intelligence
 
-# 🧰 My Skills
+# <img src="media/arm.gif" width="50" draggable="false"> My Skills
 
 <div align="center">
 <code><img height="40" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
@@ -44,7 +44,7 @@
 <br /><br />
 
 <div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farahdawod&show_icons=true&theme=radical&count_private=true)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farahdawod&show_icons=true&theme=radical&count_private=true)
   <br>
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=farahdawod&langs_count=9&theme=tokyonight&layout=compact)
   ![Farah Dawod GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farahdawod&theme=radical&include_all_commits=true&count_private=true) 
